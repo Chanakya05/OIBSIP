@@ -1,0 +1,34 @@
+.container{
+    background-color: black;
+}
+.hname{
+    color: burlywood;
+    text-align: center;
+    text-decoration: wavy;
+    font-style: italic;
+}
+.addr{
+    color: blanchedalmond;
+    text-align: right;
+    font-size: 18px;
+}
+.new{
+    color: darksalmon;
+    text-align: center;
+    text-justify: auto;
+}
+.des{
+    color: rgb(141, 198, 227);
+    text-align: center;
+}
+.dec{
+    color: rgb(141, 198, 227);
+}
+.image{
+    height: 400;
+    width: 50%;
+    
+}
+.lis{
+    color: gold;
+}
